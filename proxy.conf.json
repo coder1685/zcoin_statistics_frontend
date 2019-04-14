@@ -1,0 +1,10 @@
+{
+  "/api": {
+    "target": "http://zcoinstatistics-prod.us-east-2.elasticbeanstalk.com",
+    "secure": false,
+    "pathRewrite": {
+      "^/api": ""
+    },
+    "changeOrigin": true
+  }
+}

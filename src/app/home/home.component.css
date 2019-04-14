@@ -1,0 +1,26 @@
+h2 {
+  font-size: 1.5em;
+  margin-top: 10;
+}
+.home {
+	padding: 0;
+}
+.home  a{
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  text-decoration: none;
+}
+
+.ag-font-style{
+color: white;
+}
+
+.ag-paging-button {
+  border: none;
+  background: black;
+}
+
+.ag-fresh.ag-paging-panel.ag-font-style {
+  color:white;
+}

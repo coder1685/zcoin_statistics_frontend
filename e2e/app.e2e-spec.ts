@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-routing App', () => {
+describe('zcoin-frontend App', () => {
   let page: AppPage;
 
   beforeEach(() => {
